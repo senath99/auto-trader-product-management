@@ -1,4 +1,4 @@
-# Auto Trader API - Admin Microservice
+# Auto Trader API - Product Management Microservice
 
 ## Project Description
 Auto Trader is an advertising platform where people and organizations can advertise their vehicles and services for free of charge. Mainly this platform provides advertising space for 3 main categories. They are vehicles, vehicle spare parts and other services. Anyone can visit the web site to find the vehicle or the service providers they are looking for.
